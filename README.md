@@ -2,6 +2,7 @@ Laravel bKash Payment Gateway Package
 
 Installation:
 1. Install via Composer
+   
    composer require arifw7/bkash:dev-main
 
 3. Publish Config & Views
