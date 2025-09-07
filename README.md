@@ -12,6 +12,7 @@ php artisan vendor:publish --provider="ArifW7\Bkash\BkashServiceProvider" --tag=
 5. Add Environment Variables
 
 Add these to your .env file:
+
 BKASH_BASE_URL=https://tokenized.sandbox.bka.sh/v1.2.0-beta
 
 SANDBOX=true // For sandbox and SANDBOX=false for live
