@@ -8,6 +8,7 @@ Installation:
 3. Publish Config & Views
 
 php artisan vendor:publish --provider="ArifW7\Bkash\BkashServiceProvider" --tag=config
+
 php artisan vendor:publish --provider="ArifW7\Bkash\BkashServiceProvider" --tag=views
 
 5. Add Environment Variables
